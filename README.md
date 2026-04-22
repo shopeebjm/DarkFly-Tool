@@ -21,7 +21,7 @@ DarkFly Sekarang Adalah: <a href="https://github.com/Ranginang67/DarkFly-2019.1"
 
 informasi:
 
-DarkFly-Tool adalah alat instalasi untuk memasang berbagai alat. Alat ini memudahkan Anda, sehingga Anda tidak perlu mengetik git clone atau mencari repositori GitHub. Anda hanya perlu memilih nomor alat mana yang ingin Anda instal. Tersedia 530 alat yang siap diinstal. Dan bagi Anda yang suka bersenang-senang, tersedia 7 alat spam SMS yang siap digunakan, Anda hanya perlu memilih spam untuk menggunakan nomor target. Tersedia juga DLL Tocopedia.
+[![DarkFly-Tool](https://img.shields.io/badge/DarkFlyTool-17%2B-blue.svg?style=flat)](http://github.com/shopeebjm/DarkFly-Tool) adalah alat instalasi untuk memasang berbagai alat. Alat ini memudahkan Anda, sehingga Anda tidak perlu mengetik git clone atau mencari repositori GitHub. Anda hanya perlu memilih nomor alat mana yang ingin Anda instal. Tersedia 530 alat yang siap diinstal. Dan bagi Anda yang suka bersenang-senang, tersedia 7 alat spam SMS yang siap digunakan, Anda hanya perlu memilih spam untuk menggunakan nomor target.
 
 ---
 
