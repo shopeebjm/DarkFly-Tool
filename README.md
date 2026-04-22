@@ -63,15 +63,16 @@ $ DarkFly
 ```
 
 # Caution
-```
 Jika python2 install.py Tidak Di izinkan Atau Gagal, Gunakan Perintah ini
 ```
 $ chmod +x install.py
 ```
 Kemudian
+
 ```
 $ python2 install.py
 ```
+
 # Cara Memperbarui:
 
 Untuk memperbarui alat ini, cukup lakukan instalasi ulang. Cara pertama adalah dengan menginstal alat Darkfly. Dengan menginstal ulang, file lama akan dihapus dan diganti dengan file baru yang telah diinstal.
