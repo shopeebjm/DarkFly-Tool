@@ -1,7 +1,7 @@
 # DarkFly-Tool
 Versi terbaru dari perangkat lunak DarkFly V.4.0
 
-DarkFly now is: <a href="https://github.com/Ranginang67/DarkFly-2019.1">DarkFly-2019.1</a> (generation of DarkFly-tool) Try it.
+DarkFly Sekarang Adalah: <a href="https://github.com/Ranginang67/DarkFly-2019.1">DarkFly-2019.1</a> (generation of DarkFly-tool) Cobalah.
 
 informasi:
 
