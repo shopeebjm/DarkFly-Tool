@@ -3,9 +3,9 @@ The latest version of DarkFly tool V.4.0
 
 DarkFly now is: <a href="https://github.com/Ranginang67/DarkFly-2019.1">DarkFly-2019.1</a> (generation of DarkFly-tool) Try it.
 
-information:
+informasi:
 
-DarkFly-Tool is an installation tool for installing tools. this tool makes it easy for you. so you don't need to type git clone or look for the github repository. You only have to choose the number. which tool you want to install. there are 530 tools ready for intall. and for those of you who like to have fun. there are 7 SMS spam tools that are ready to use, you just need to choose spam to use the target number. there is a tocopedia DLL, 
+DarkFly-Tool adalah alat instalasi untuk memasang berbagai alat. Alat ini memudahkan Anda, sehingga Anda tidak perlu mengetik git clone atau mencari repositori GitHub. Anda hanya perlu memilih nomor alat mana yang ingin Anda instal. Tersedia 530 alat yang siap diinstal. Dan bagi Anda yang suka bersenang-senang, tersedia 7 alat spam SMS yang siap digunakan, Anda hanya perlu memilih spam untuk menggunakan nomor target. Tersedia juga DLL Tocopedia.
 
 install:
 
@@ -13,7 +13,7 @@ install:
 
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `git clone https://github.com/shopeebjm/DarkFly-Tool`
 * `cd DarkFly-Tool`
 * `python2 install.py`
 
