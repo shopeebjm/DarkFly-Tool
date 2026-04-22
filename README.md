@@ -35,6 +35,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
+# Command Prompt
  ```
 $ pkg install python2
  ```
