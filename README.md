@@ -28,7 +28,7 @@ DarkFly-Tool adalah alat instalasi untuk memasang berbagai alat. Alat ini memuda
 ## ⚠️ Disclaimer
 
 > Alat ini dikembangkan khusus untuk tujuan pendidikan dan pengujian penetrasi yang diizinkan saja.
-> Pengembang [![DarkFly-Tool](https://img.shields.io/badge/DarkFlyTool-17%2B-blue.svg?style=flat)](http://github.com/shopeebjm/DarkFly-Tool)tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini.
+> Pengembang [![DarkFly-Tool](https://img.shields.io/badge/DarkFlyTool-17%2B-blue.svg?style=flat)](http://github.com/shopeebjm/DarkFly-Tool) tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini.
 > Menggunakan alat ini terhadap individu atau sistem apa pun tanpa izin tertulis yang jelas adalah ilegal.
 > Dengan menggunakan alat ini, Anda sju bahwa Anda sepenuhnya bertanggung jawab atas tindakan Anda.
 
