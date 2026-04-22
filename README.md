@@ -35,13 +35,22 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
-**Termux:**
+ ```
+ pkg install python2
+ ```
+ ```
+ pkg install git
+ ```
+ ```
+git clone https://github.com/shopeebjm/DarkFly-Tool
+ ```
 
-* `pkg install python2`
-* `pkg install git`
-* `git clone https://github.com/shopeebjm/DarkFly-Tool`
-* `cd DarkFly-Tool`
-* `python2 install.py`
+ ```
+ cd DarkFly-Tool
+ ```
+ ```
+ python2 install.py
+ ```
 
 1.Jika Penginstallan Selesai,Gunakan Perintah
 ```
@@ -53,15 +62,16 @@ $ cd
 $ DarkFly
 ```
 
-**NOTE:**
+# Caution
 ```
 if python2 install.py is not allowed or fail, Use this
 $chmod +x install.py
 $python2 install.py
 ```
-**Cara Memperbarui:**
+# Cara Memperbarui:
 
 Untuk memperbarui alat ini, cukup lakukan instalasi ulang. Cara pertama adalah dengan menginstal alat Darkfly. Dengan menginstal ulang, file lama akan dihapus dan diganti dengan file baru yang telah diinstal.
+
 # Catatan
 ```
 the DarkFly tools on linux does not working
