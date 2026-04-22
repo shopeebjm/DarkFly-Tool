@@ -52,11 +52,11 @@ git clone https://github.com/shopeebjm/DarkFly-Tool
  python2 install.py
  ```
 
-1.Jika Penginstallan Selesai,Gunakan Perintah
+# Jika Penginstallan Selesai,Gunakan Perintah
 ```
 $ cd
 ```
-2.then run it
+# Kemudian Jalankan Perintah
 
 ```
 $ DarkFly
