@@ -36,13 +36,13 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
  ```
- pkg install python2
+$ pkg install python2
  ```
  ```
- pkg install git
+$ pkg install git
  ```
  ```
-git clone https://github.com/shopeebjm/DarkFly-Tool
+$ git clone https://github.com/shopeebjm/DarkFly-Tool
  ```
 
  ```
@@ -64,9 +64,13 @@ $ DarkFly
 
 # Caution
 ```
-if python2 install.py is not allowed or fail, Use this
-$chmod +x install.py
-$python2 install.py
+Jika python2 install.py Tidak Di izinkan Atau Gagal, Gunakan Perintah ini
+```
+$ chmod +x install.py
+```
+Kemudian
+```
+$ python2 install.py
 ```
 # Cara Memperbarui:
 
