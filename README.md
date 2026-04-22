@@ -23,6 +23,17 @@ informasi:
 
 DarkFly-Tool adalah alat instalasi untuk memasang berbagai alat. Alat ini memudahkan Anda, sehingga Anda tidak perlu mengetik git clone atau mencari repositori GitHub. Anda hanya perlu memilih nomor alat mana yang ingin Anda instal. Tersedia 530 alat yang siap diinstal. Dan bagi Anda yang suka bersenang-senang, tersedia 7 alat spam SMS yang siap digunakan, Anda hanya perlu memilih spam untuk menggunakan nomor target. Tersedia juga DLL Tocopedia.
 
+---
+
+## ⚠️ Disclaimer
+
+> Alat ini dikembangkan khusus untuk tujuan pendidikan dan pengujian penetrasi yang diizinkan saja.
+> Pengembang 'DarkFly-Tool' tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini.
+> Menggunakan alat ini terhadap individu atau sistem apa pun tanpa izin tertulis yang jelas adalah ilegal.
+> Dengan menggunakan alat ini, Anda setuju bahwa Anda sepenuhnya bertanggung jawab atas tindakan Anda.
+
+---
+
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
